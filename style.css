@@ -1,8 +1,10 @@
 html{
-    background-color:cadetblue;
+    background-color:rgb(181, 207, 239);
     font-size: 20px;
 }
-
+h1{
+    color:seashell;
+}
 ul{
     background:pink;
     padding: 10px;
