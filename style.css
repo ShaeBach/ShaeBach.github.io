@@ -1,6 +1,13 @@
 html{
-    background-color:rgb(181, 207, 239);
     font-size: 20px;
+}
+body{
+    background-color:rgb(181, 207, 239);
+}
+@media(min-width: 30em){
+    body{
+        background-color:gold;
+    }
 }
 h1{
     color:seashell;
@@ -9,6 +16,7 @@ ul{
     background:pink;
     padding: 10px;
     border: 1px seashell;
+    list-style-type:;
 }
 li{
     margin: left 10px;
