@@ -5,12 +5,11 @@ html{
 h1{
     color:seashell;
 }
-/*ul{
+ul{
     background:pink;
     padding: 10px;
     border: 1px seashell;
-}*/
-
+}
 li{
     margin: left 10px;
 }
